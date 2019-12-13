@@ -7,7 +7,7 @@ html, body {
 body {
   margin: 0;
   display: flex;
-  outline-color:rgb(10, 3, 3);
+  outline-color:rgb(2, 3, 3); /* 10 to 2 (change back) */
 
   /* This centers our sketch horizontally. */
   justify-content: center;
