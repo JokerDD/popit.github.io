@@ -31,8 +31,8 @@ h1 {
     position : fixed;
     margin : auto;
     align-items: center;
-    bottom :50; /*530 */
-    right : 60; /* 520*/
+    bottom :80; /*530 */
+    right : 150; /* 520*/
     width : 80px; /*from 300 to 100 */
     /*border : 3px solid #b7d436;*/
     text-align: center;
