@@ -114,7 +114,7 @@ function draw() {
   fill(255);
   textSize(20);
   textAlign(LEFT, TOP);
-  text("Score: " + obstX.length, 10, 10);
+  document.getElementById("score-panel").innerText = "Score: " + obstX.length; //new changes : now it will display the result in new <div>
 }
 
 function keyPressed() {
