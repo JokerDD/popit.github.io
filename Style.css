@@ -41,3 +41,18 @@ h5 {
 
 }
 
+
+score-panel {
+  position: fixed;
+  top: 50px;   /* adjust as needed */
+  right: 50px; /* adjust as needed */
+  padding: 10px 20px;
+  background: #222;
+  color: #fff;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+
